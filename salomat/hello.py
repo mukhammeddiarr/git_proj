@@ -1,0 +1,8 @@
+print("alkjflksjafojasofjiowjeokwej")
+print("alkjflksjafojasofjiowjeokwej")
+print("alkjflksjafojasofjiowjeokwej")
+print("alkjflksjafojasofjiowjeokwej")
+print("alkjflksjafojasofjiowjeokwej")
+print("alkjflksjafojasofjiowjeokwej")
+print("alkjflksjafojasofjiowjeokwej")
+print("alkjflksjafojasofjiowjeokwej")
